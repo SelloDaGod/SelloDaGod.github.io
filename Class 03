@@ -3,5 +3,8 @@
 # Centralized Version - * A system that has a single server that stores all changes and file versions which could be accessed by different clients.*
 *It allows programmers to have more knowledge of team members activities *
 # Distributed Version Control - * It mirrors repositories so that in case of a loss the DVC can replace the lost information.*
+# Git - * Saves a snapshot of a file once you commit to changes.*
+ * $ git commit -a  *This Command commits a snapshot to all modifications to tracked files in the working directory.*
+ #Git Stash - * Allows you to keep changes to work on later without commiting to it.*
 
 These topics matter because they help you keep track of and recover any files that you create.
