@@ -7,5 +7,5 @@
 *My Marcelous Kyles/Sello and I am 23*
 
 # Class 01
-# Class 02
+# [Class 02](https://sellodagod.github.io/)
 # Class 03
