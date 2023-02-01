@@ -1,0 +1,7 @@
+# Version Control - * A system that allows you to see different versions of a file so that mistakes can be easily rectified. *
+# Local Version Control - * A database that stores changes to files. *
+# Centralized Version - * A system that has a single server that stores all changes and file versions which could be accessed by different clients.*
+*It allows programmers to have more knowledge of team members activities *
+# Distributed Version Control - * It mirrors repositories so that in case of a loss the DVC can replace the lost information.*
+
+These topics matter because they help you keep track of and recover any files that you create.
