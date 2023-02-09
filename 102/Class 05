@@ -1,0 +1,14 @@
+#CSS
+CSS-(Cascading Style Sheet) 
+CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
+
+There are three ways of inserting a style sheet:
+
+External CSS
+Internal CSS
+Inline CSS
+
+External Style Sheet- You can change the entire look of a website
+External styles are defined within the <link>
+The internal style is defined inside the <style> element
+An inline style may be used to apply a unique style for a single element.
