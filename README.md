@@ -1,6 +1,6 @@
 # Reading Notes
 
-## [Course 102] (/Sellodagod.github.io/102)
+## [Course 102] (/SelloDaGod.github.io/102/)
 
 ## [Course 201]
 
