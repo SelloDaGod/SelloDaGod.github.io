@@ -1,4 +1,4 @@
-# Reading Notes Repo
+# Reading Notes 
 
 ## [Course 102] (/Sellodagod.github.io/102)
 
