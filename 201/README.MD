@@ -1,6 +1,6 @@
-# Reading Notes 
+# Table of Contents
 
-## [Course 102] (/Sellodagod.github.io/102)
+## [Class 01] (https://github.com/SelloDaGod/SelloDaGod.github.io/blob/41c3e4e0e59ccd2e6cb4ed74232fccd701364b57/201/Class%2001)
 
 ## [Course 201]
 
