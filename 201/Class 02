@@ -1,0 +1,23 @@
+# Basics of HTML, CSS & JS
+* Its is importanrt to use semantic elements because they define sections in a document and different parts of a web page.
+* There are 6 levels of headings in HTML.
+* You can use terms <sup> and <sub> to mark up dates, chemical formulae, and mathematical equations.
+* When using the <abbr> element, you have to provide a full expansion of the word in full text as the value of Title.
+Learning CSS-
+*Different ways we can apply CSS to our HTML pages are with an external stylesheet, an internal stylesheet, and with inline styles.
+* We should avoid using inline styles because it is the least efficient for maintenance and one styling change might require multiple edits.
+
+For the block code displayed 
+* h2 represents the selector
+* Color and Pading represent the properties 
+* Black and 5px are the declarations
+
+Learning JS
+* Strings are the datatype for sequence of text
+* The 4 types of Js operators are assignment, strict equality, Not/does not equal, and addition
+* A real world problem that can be solved with a function is calculating travel time
+* An if statement checks condition and if it evaluates to false, then the code block will execute.
+* The use of an else if statement is to specify a new condition if the first condition is false.
+*The 3 types of comparison operators are the <(less than or equal), <(less than), and >=(greater than or equal)
+* The difference is applied to boolean values  the && operator only returns true when both of its operands are true, ( and false in all other cases)
+
