@@ -1,1 +1,24 @@
+## HTML Lists, Control Flow with JS, and the CSS Box Model
+HTML
+* You use an unoerdered list in your HTML when you are grouping a collection of items that do not have a numerical ordering or the order is meaningless.
+* You use the Boolean attribute to set the bullet syle for a list.
+* You can change the numbers on list items in multiple ways but two ways are putting I for roman numeral lists or starting with 1 for a regular numbered list.
+CSS
+* Padding and Margins determine whether elements are pushed away from the box or not.
+* Four parts of a HTML elements box-
+Content box: The area where your content is displayed; size it using properties like inline-size and block-size or width and height.
+Padding box: The padding sits around the content as white space; size it using padding and related properties.
+Border box: The border box wraps the content and any padding; size it using border and related properties.
+Margin box: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; 
+size it using margin and related properties.
 
+JS
+* We can store strings, numbers, objects, and other arrays inside an array.
+* The People array is valid and to find the value you can use Value()function.
+Operators
+* Assignment Operators
+* Comparison operators
+* Arithmetic operators
+* Bitwise operators
+* Logical operators
+ A loop can be useful in Javascript when you need the user to get an answer correct before they can move on.
