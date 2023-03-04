@@ -1,0 +1,18 @@
+#Domain Modeling
+Domain Models are needed because it is a communication tool that can define vocabulary that is used. It also stores data in properties.
+
+#HTML Tables
+Table not be used for page layouts because layout tables reduce accessibility for visually impaired users, 
+table layouts generally involve more complex markup structures than proper layout techniques and tables are not automatically responsive.
+
+#Contructors
+A constructor is just a function called using the new keyword. When you call a constructor, it will:
+create a new object
+bind this to the new object, so you can refer to this in your constructor code
+run the code in the constructor
+return the new object.
+The term "this" is different when using an constructor because you can can refer to the object using that term.
+
+#ObjectPrototypes
+The prototypes are like the parents of the inheritance. The protoytpes come first while the inheritance has some similarities to the prototype but is still different.
+
