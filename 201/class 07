@@ -16,3 +16,4 @@ The term "this" is different when using an constructor because you can can refer
 #ObjectPrototypes
 The prototypes are like the parents of the inheritance. The protoytpes come first while the inheritance has some similarities to the prototype but is still different.
 
+This topic matters because all of this is essential to being able to use javascript.
