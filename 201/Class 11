@@ -1,0 +1,35 @@
+## Audio,Video,Images
+
+This topic matters because audio, video, and images are needed to make a  good webpage and knowing how to implement them can be complicated.
+
+1.The ability to use video and audio has evolved from having to use plugins called FLASH and SILVERLIGHT. They both had issues with accessibility and security.
+They are now obsolete in favor of the HTML elements <video> and <audio>.
+
+2.For SRC source in the <video> elememt contains a path to the video you want to use. It works in the same way as <img>.
+The controls attribute is for the user to be able to control the media in your web page.
+
+3. It is important to have fallback content inside the <video> element because some people use older browsers that don't allow the user to play the video from there.
+The fallback content can be a link or text so that the user can still access that media regardless of the browser they use.
+
+4. <video> and <audio> becaome best friends when they met in school one day. All the other classmate are very different from them.
+<video> was always to themselves because everybody else has different requirements to function. <audio> was a new student and is exactly like <video>.
+The only difference between the two is the media type. They both require fallback content and they both allow the user control the media.
+
+#Grid 
+
+1. Grid difference from flexbox and css grid is that grid is designed to solve layout problems and flexbox's one directional flow has different use cases.
+
+2. A Grid Container is the element where grid is applied. It's the direct parent of all the grid items.
+A Grid Lines are lines that make up the structure of the grid whether its horizontal or vertical.
+
+# Responsive Images
+
+1. Developers should make images responsive because a large image size on certain devices csn use up a lot of bandwidth. 
+Also on a smaller device things become more difficult to see because things are still sized to fit a desktop screen.
+
+2. <SRCSET> and <SIZES> help provide aditional source images and hints to help the browser pick the right one. <SRCSET> defines the set of images we will allow the 
+browser to choose from. each each set of image information is seperated by a comma.
+<SIZES> defines a set of media conditions like screen widths. it indicates what image size would be best to use.
+
+3. <SRCSET> is more helpful to use for responsive images than CSS of Javascript because it allows your browser to choose the best image size for a screen.
+Using javascript and CSS only allows you to choose from one image source at a time while with <srcset> you can have multiple.
