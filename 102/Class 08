@@ -1,0 +1,63 @@
+##Operators and Loops
+*Expessions and Operators- At a high level, an expression is a valid unit of code that resolves to a value.
+There are two types of expressions:those that have side effects and those that purely evaluate.
+x = 7 is an example. This expression uses the = operator to assign the value seven to the variable x.
+ 3 + 4 is an example of the other type. This expression uses the + operator to add 3 and 4 together and produces a value, 7. 
+ Operators- There are multiple operators.
+* Assignment operators- An assignment operator assigns a value to its left operand based on the value of its right operand.
+Name         Shorthand Operator      Meaning
+Assignment	x = f()	x = f()
+Addition assignment	x += f()	x = x + f()
+Subtraction assignment	x -= f()	x = x - f()
+Multiplication assignment	x *= f()	x = x * f()
+Division assignment	x /= f()	x = x / f()
+Remainder assignment	x %= f()	x = x % f()
+Exponentiation assignment	x **= f()	x = x ** f()
+Left shift assignment	x <<= f()	x = x << f()
+Right shift assignment	x >>= f()	x = x >> f()
+Unsigned right shift assignment	x >>>= f()	x = x >>> f()
+Bitwise AND assignment	x &= f()	x = x & f()
+Bitwise XOR assignment	x ^= f()	x = x ^ f()
+Bitwise OR assignment	x |= f()	x = x | f()
+Logical AND assignment	x &&= f()	x && (x = f())
+Logical OR assignment	x ||= f()	x || (x = f())
+Nullish coalescing assignment	x ??= f()	x ?? (x = f())
+
+* Comparison operators- A comparison operator compares its operands and returns a logical value based on whether the comparison is true.
+
+* Arithmetic operators- An arithmetic operator takes numerical values (either literals or variables) as their operands and returns a single numerical value. 
+
+* Bitwise operators- The bitwise shift operators take two operands: the first is a quantity to be shifted,
+and the second specifies the number of bit positions by which the first operand is to be shifted.
+
+* Logical operators-Logical operators are typically used with Boolean (logical) values; when they are, they return a Boolean value.
+However, the && and || operators actually return the value of one of the specified operands.
+
+
+* BigInt operators- Most operators that can be used between numbers can be used between BigInt values as well.
+// BigInt addition
+const a = 1n + 2n; // 3n
+// Division with BigInts round towards zero
+const b = 1n / 2n; // 0n
+// Bitwise operations with BigInts do not truncate either side
+const c = 40000000000000000n >> 2n; // 10000000000000000n
+Copy to Clipboard
+One exception is unsigned right shift (>>>), which is not defined for BigInt values. 
+This is because a BigInt does not have a fixed width, so technically it does not have a "highest bit".
+
+* String operators- n addition to the comparison operators, which can be used on string values, the concatenation operator (+) concatenates two string values together,
+returning another string that is the union of the two operand strings.
+
+* Conditional (ternary) operator- The conditional operator is the only JavaScript operator that takes three operands. 
+The operator can have one of two values based on a condition. The syntax is:
+
+condition ? val1 : val2
+
+* Comma operator- The comma operator (,) evaluates both of its operands and returns the value of the last operand. 
+This operator is primarily used inside a for loop, to allow multiple variables to be updated each time through the loop.
+
+* Unary operators- A unary operation is an operation with only one operand.
+
+* Relational operators- A relational operator compares its operands and returns a Boolean value based on whether the comparison is true.
+Basic expressions- All operators eventually operate on one or more basic expressions. 
+These basic expressions include identifiers and literals, but there are a few other kinds as well. 

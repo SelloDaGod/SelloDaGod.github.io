@@ -1,0 +1,30 @@
+##CSS Flexbox
+
+1. Flexbox is designed for one-dimensional content. This means
+
+2.The difference between main axis and cross axis.
+
+The main axis is the one set by your flex-direction property.
+If that is row your main axis is along the row, 
+if it is column your main axis is along the column.
+
+The cross axis runs in the other direction to the main axis.
+You can move things individually or as a group, so they align against each other.
+
+3. When using row reverse and column reverse reorder happens only for visual order and not logical order.
+The logical order is the order that  the screen reader reads out.
+If it is out of logical order then the screen reader will be wrong.
+
+##CSS Layout
+
+1. With Flexbox you can vertically center a block of content inside it's parent easily.
+You can make all the children of a container take up an equal amount of width/height.
+
+2. This topc connects with my long term goals because in order to code more efficiently,
+I may need to use flexbox in future projects.
+
+## Thing I want to know more about.
+I want to know more about how these things are used to develop video games.
+I also want to know more about how these languages came about.
+
+

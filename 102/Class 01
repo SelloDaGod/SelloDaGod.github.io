@@ -1,0 +1,13 @@
+#Learning Markdown
+To make headers in mark down use (#) in front of header
+
+Use blank lines to to seperate text for *paragraphs*.
+You can **Bold** or *italicize* text for more emphasis
+To create a block quote use (>) in front a paragraph
+For *Lists* add a number followed by a period in front of the thing listed
+For unordered lists you can use (*) (+) or (-)
+To create a link [link](https://www.example.com/my%20great%20page)
+*Links*
+You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ).
+*Images*
+You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
