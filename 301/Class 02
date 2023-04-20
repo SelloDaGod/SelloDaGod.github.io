@@ -1,0 +1,12 @@
+## State and Props
+
+#React Lifecycle
+
+1. Based of the diagram the 'render' happens first.
+2. Mounting is the very first thing that happens in the life cycle of react.
+3. Constructor, render, react updates, componentdidmount, componentdidupdate, componentwillunmount is the order that they happen.
+4. componentDIdMount() holds things that  need to load using a network request or initialize the DOM and it is a good place to set up subscriptions.
+
+#React State Vs Props
+1. You can pass counter components into props because props are things you want to pass in a function.
+2. 
