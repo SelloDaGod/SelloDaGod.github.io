@@ -10,4 +10,5 @@
 #React State Vs Props
 1. You can pass counter components into props because props are things you want to pass in a function.
 2. The main difference is that props are handled outside the component and you pass into a component and state is handled within the component.
-3. 
+3. You rerender your application when you need to store something in your state
+4. You store the updates that you have in state so that 
