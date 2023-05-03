@@ -1,0 +1,17 @@
+## Pushing Functions as Props
+
+1 .map() returns an array doubled the value.
+
+2 you can use the .map() method to loop through an array and display each value in JSX by first defining the array you want to loop through and then using the .map()
+method to create a new array of JSX elements that correspond to the values in the original array.
+
+3  Each list item needs a unique key prop, which React uses to keep track of each item in the list and improve performance when re-rendering the component.
+
+4 The purpose of a key prop is to help React keep track of each item in a list when it is re-rendered. When a component is re-rendered,
+React uses the key prop to quickly identify which items have changed and need to be updated
+
+# The Spread operator
+
+1. The spread syntax spreads the array into separate arguments.
+2. 
+
