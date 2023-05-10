@@ -4,4 +4,4 @@
 2. The techniques we use are not designed for talking to all the machines in the world.
 3.HTTP protocol is capable of describing the location of something anywhere in the world from anywhere in the world. It's like GPS coordinates for knowledge and information.
 4. GET retrieves data from a web server by using url.
-5. POST
+5. POST 
