@@ -1,0 +1,21 @@
+## APIs
+This topic matters because for this module because its important to understand APIs if we are creating them.
+
+1.REST stands for Representational State Transfer
+2.REST APIs are designed around a  resources, which are any kind of object, data, 
+or service that can be accessed by the client.
+3. The identifier of a resource is the URI that uniquely identifies that resource. For example, 
+https://adventure-works.com/orders/1
+4. The most HTTP verbs are GET, POST, PUT, PATCH, and DELETE.
+5. The URIs should be based on nouns (the resource) and not verbs (the operations on the resource).
+6. https://adventure-works.com/orders
+7. Having a chatty web API means that it has a lrge number of small resources and
+a client application has to send multiple requests to find all of the data required.
+It's a bad thing.
+8. The successful status code for GET request is 200
+9. The unsuccessful status code for GET is 204.
+10. The successful status code for Post is 201.
+11. The successful sttus code for DELETE is 204.
+
+## Things I want to know more about
+I want to know if this topic something a developer has to be completely be familiar with in order to do the job affectively?
