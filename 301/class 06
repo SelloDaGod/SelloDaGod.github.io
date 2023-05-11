@@ -4,4 +4,17 @@
 2. The techniques we use are not designed for talking to all the machines in the world.
 3.HTTP protocol is capable of describing the location of something anywhere in the world from anywhere in the world. It's like GPS coordinates for knowledge and information.
 4. GET retrieves data from a web server by using url.
-5. POST 
+5. POST is the HTTP verb if one system needs to add something to another system.
+6. PUT is the HTTP verb if a system wants to replace something in another system.
+7. PATCH is used to do a partial update.
+ 
+## API Keys
+1. Geocoding API
+Yes
+2.Weatherbit API
+Yes
+3.Yelp API Docs
+
+
+
+ 
