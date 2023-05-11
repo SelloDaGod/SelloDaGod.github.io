@@ -1,0 +1,23 @@
+##Node.Js
+1. Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses 
+Google’s V8 JavaScript engine and libuv library.
+2. Chrome's V8 engine is an engine that compiles javascript onto your local machin using 
+Chromium-based web browsers.
+3. Node is called runtime because Node binary built the JS program to machine code and OS executes it.
+4.NPM is a package manager and it is the largest software registry.
+5.v18.16.0
+6. Version 9.5.1
+7. Use npm install -g jshint to install the "jshint" package.
+8.installing (via npm) and running (via Node) various build tools.
+
+## 6 Reasons for pair programming
+1. The 6 reasons are  Greater efficiency, Engaged collaboration,Learning from fellow students,
+Social skills,Job interview readiness and Work environment readiness.
+2. The reason that I have found to be the most beneficial is learning from fellow students.
+Engaged collaboration is also very beneficial.
+3. There are two roles which are the driver and the navigator. The driver is hands on managing
+the code. The navigator uses their words to guide the driver and focus on the big picture.
+
+## Things I want to know more about.
+1. I see the explanation of why we call node runtime but I still don't even really understand the 
+explainations I saw.
