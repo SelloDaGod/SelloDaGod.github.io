@@ -1,1 +1,22 @@
-## Putting it all Together
+# Putting it all Together
+1. The single responsibility principle is that a component should ideally only do one thing.
+If it ends up growing, it should be decomposed into smaller subcomponents.
+
+2.To build a static version of your application is to build a version that renders the UI from your data model without adding any interactivity.
+
+3.Once you have a static version, you need to add interactivity to enable user actions and dynamic updates.
+
+4.The three questions to determine if something is state: Does it remain unchanged? Is it passed via props? Can it be computed from existing state or props?
+
+5.To identify where state needs to live, find the common parent component that renders components based on the state and 
+decide if it should be lifted up or managed in a separate component.
+
+## Higher-Order Function
+1. Higher-order functions are functions that operate on other functions, either by taking them as arguments or by returning them.
+
+2.The second line of this function is defining an anonymous arrow function that takes a parameter m and checks if m is greater than n.
+
+3.map is a higher-order function that transforms each element of an array using a provided function, creating a new array.
+
+## Things I wnat to know more about.
+I want to know more about what the rest of this article about.
