@@ -1,0 +1,28 @@
+# Functional Programming
+
+1. Functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions and 
+emphasizes immutable data and the avoidance of changing state.
+
+2. A pure function is a function that satisfies two main criteria. It returns the same result when given the same arguments and 
+it does not cause any observable side effects. You can determine if the function is pure if it doesn't have any side effects, it doesn't modify any variables outside of it's scope,
+and if it doesn't rely on any external state.
+
+3. The benefits of pure functions include predictability, testability, reusability, concurrency, and easier debugging and refactoring.
+
+4.Immutability refers to data that cannot be changed after creation. 
+
+5.Referential transparency means a function consistently produces the same result for the same input, allowing for substitution without altering program behavior.
+
+
+## Node Js 
+1. A module is a reusable block of code in Node.js that encapsulates related functionality.
+
+2.require is used in Node.js to load and import modules.
+
+3. To bring another module into the current file, use 'require' followed by the module's path.
+
+4. To make a module available, export the desired variables, functions, or classes using 'module.exports' or 'exports'.
+
+## Things I want To Know More About 
+I would like to know some real world scenerios where pure functions and immutability can be beneficial.
+How does functional programming differ from other programming paradigms?
