@@ -1,1 +1,24 @@
+# In Memory Storage
+
 1. A call is used for function invocation 
+
+2. Calls can only happen one at a time.
+
+3. LIFO means Last In First Out. it means that the last function that gets pushed into the stack is the first to be pop out,
+when the function returns.
+
+4. Main function
+ |--- Function A
+      |--- Function B
+           |--- Function C
+                |--- Function D
+           |--- Function E
+      |--- Function F
+ |--- Function G
+      |--- Function H
+
+5. A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point.  
+
+# Javascript error messages
+
+1.
