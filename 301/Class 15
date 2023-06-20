@@ -1,0 +1,37 @@
+# Authentication
+## OAuth
+1. OAuth is an open standard protocol for secure authorization and delegation of access without sharing credentials.
+
+2. Example: Signing in to an app using your Google account without sharing your password.
+
+3. OAuth steps
+User initiates authorization.
+Service provider prompts user for authentication.
+User grants authorization.
+Service provider issues an access token.
+Client accesses protected resources.
+Access token usage and expiration.
+
+4. OpenID is an authentication protocol used with OAuth for user authentication across multiple websites or services with a single set of credentials.
+
+## What is the difference between authorization and authentication?
+
+1. Authentication: Verifying identity. Authorization: Granting access based on permissions.
+
+2. Authorization Code Flow: Web app flow for obtaining access token and refresh token.
+
+3. Authorization Code Flow with PKCE: Enhanced version with added security using proof key.
+
+4. Implicit Flow with Form Post: Client-side web app flow returning access token in URL fragment.
+
+5. Client Credentials Flow: Flow for confidential clients to obtain access token directly.
+Device Authorization Flow: Flow for devices with limited input capabilities.
+
+6. Device Authorization Flow: Flow for devices with limited input capabilities.
+
+7. Resource Owner Password Flow: Flow collecting user credentials for access token exchange.
+
+## Things I want to know more about.
+What is the purpose of the Device Authorization Flow in OAuth 2.0?
+
+
